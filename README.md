@@ -16,3 +16,116 @@ Hi, I’m Mohit Malviya<br>B.Tech student in Artificial Intelligence & Data Scie
 [![](https://visitcount.itsvg.in/api?id=mohitmalviya0707&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Banner -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&text=Mohit%20Malviya&fontColor=ffffff&fontSize=45&fontAlignY=35&desc=AI%20%7C%20Data%20Science%20%7C%20ML%20Engineer&descAlignY=55)
+
+# 👋 Hey, I'm Mohit Malviya  
+### AI & Data Science Enthusiast | ML Engineer | Cloud & Automation Learner
+
+I love building intelligent systems, experimenting with machine learning models, solving real-world data problems, and designing modern UI dashboards & ML apps.
+
+---
+
+# 🌐 Connect With Me  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohit_malviya07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mohitmalviya-ds)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohitmalviya0107@gmail.com)
+
+---
+
+# 🧠 About Me  
+- 🔭 Currently working on: **ML Pipelines, Streamlit Apps, Cloud + MLOps**  
+- 💡 Interests: **AI, Deep Learning, NLP, Data Engineering**  
+- 🌱 Learning: **TensorFlow, PyTorch, Azure, AWS, FastAPI**  
+- 🚀 Goal: To become a **Top Tier Data Scientist & ML Engineer**  
+- 📂 Portfolio projects coming soon...
+
+---
+
+# 💻 Tech Stack  
+
+## 🚀 Languages & Tools  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 🤖 Machine Learning  
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+## 📊 Data & Visualization  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+## ☁️ Databases & Cloud  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+---
+
+# 🚀 Featured Projects  
+### 🔹 **Movie Recommendation System**
+- Built using Python, React & Streamlit  
+- Uses cosine similarity + image-based UI  
+- Repo coming soon…
+
+### 🔹 **Sales Forecasting Pipeline**
+- Complete MLOps-ready pipeline  
+- Includes EDA → ML → Deployment  
+- Repo coming soon…
+
+### 🔹 **Titanic ML Project**
+- Classification using ML models  
+- Clean notebook + GitHub documentation  
+- Repo available in profile
+
+---
+
+# 📊 GitHub Stats  
+
+![Stats](https://github-readme-stats.vercel.app/api?username=mohitmalviya0707&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitmalviya0707&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+# 🔥 GitHub Streak  
+![GitHub Streak](https://streak-stats.demolab.com/?user=mohitmalviya0707&theme=tokyonight&hide_border=true)
+
+---
+
+# 🏆 Achievements  
+![Trophy](https://github-profile-trophy.vercel.app/?username=mohitmalviya0707&theme=tokyonight&no-frame=true&margin-w=10)
+
+---
+
+# 📫 Want to collaborate?
+If you’re into **AI, Data Science, ML apps, or Cloud projects**, feel free to connect!  
+Let’s build something amazing together 🚀
+
+---
+
+⭐ **Thanks for visiting my GitHub!**  
