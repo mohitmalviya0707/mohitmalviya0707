@@ -1,13 +1,6 @@
-
-
-# 👋 Hi, I'm Mohit Malviya  
-### AI & Data Science Enthusiast • ML Engineer • Cloud Learner
-
-Passionate about building intelligent systems, solving data-driven problems, and turning ideas into real AI applications.
-
----
 # 💫 About Me:
-<br>B.Tech student in Artificial Intelligence & Data Science<br>Passionate about building practical AI solutions and learning by doing.<br>🔭 Currently Working On<br>Data Science and Machine Learning projects<br>AI-powered applications using Python<br>Improving problem-solving and analytical skills<br>🌱 Currently Learning<br>Machine Learning algorithms in depth<br>Data analysis with Python, Pandas, NumPy<br>Basics of Deep Learning and NLP<br>🤝 Looking to Collaborate On<br>Data Science projects<br>AI/ML research-based ideas<br>Beginner-friendly open-source contributions<br>💬 Ask Me About<br>Python<br>Data Science basics<br>Machine Learning concepts<br>College projects in AI & DS<br>⚡ Fun Fact<br>I enjoy turning complex concepts into simple explanations and real projects.
+Hi, I’m Mohit Malviya<br>B.Tech student in Artificial Intelligence & Data Science<br>Passionate about building practical AI solutions and learning by doing.<br>🔭 Currently Working On<br>Data Science and Machine Learning projects<br>AI-powered applications using Python<br>Improving problem-solving and analytical skills<br>🌱 Currently Learning<br>Machine Learning algorithms in depth<br>Data analysis with Python, Pandas, NumPy<br>Basics of Deep Learning and NLP<br>🤝 Looking to Collaborate On<br>Data Science projects<br>AI/ML research-based ideas<br>Beginner-friendly open-source contributions<br>💬 Ask Me About<br>Python<br>Data Science basics<br>Machine Learning concepts<br>College projects in AI & DS<br>⚡ Fun Fact<br>I enjoy turning complex concepts into simple explanations and real projects.
+
 
 
 ## 🌐 Socials:
