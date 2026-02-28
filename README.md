@@ -1,5 +1,4 @@
-<!-- Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43,200:2c5364&height=220&text=Mohit%20Malviya&fontColor=ffffff&fontSize=45&fontAlignY=35&desc=AI%20%7C%20Data%20Science%20%7C%20ML%20Enthusiast&descAlignY=55)
+
 
 # 👋 Hi, I'm Mohit Malviya  
 ### AI & Data Science Enthusiast • ML Engineer • Cloud Learner
