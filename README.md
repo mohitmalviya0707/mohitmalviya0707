@@ -42,19 +42,15 @@ Hi, I’m Mohit Malviya<br>B.Tech student in Artificial Intelligence & Data Scie
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white)
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mohitmalviya0707&theme=gruvbox&hide_border=true" />
-</p>
+# 📊 GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=mohitmalviya0707&theme=gruvbox&hide_border=false)<br/>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=mohitmalviya0707&icon=5&color=6" />
-</p>
 
----
+[![](https://visitcount.itsvg.in/api?id=mohitmalviya0707&icon=0&color=0)](https://visitcount.itsvg.in)
 
-⭐ *Consistently improving, one commit at a time.*
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
