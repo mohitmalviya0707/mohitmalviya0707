@@ -46,16 +46,12 @@ Hi, I’m Mohit Malviya<br>B.Tech student in Artificial Intelligence & Data Scie
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mohitmalviya0707&theme=gruvbox&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=mohitmalviya0707&theme=gruvbox&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=mohitmalviya0707&icon=5&color=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohitmalviya0707&show_icons=true&theme=gruvbox&hide_border=true" />
 </p>
-
----
-
-⭐ *Consistently improving, one commit at a time.*
 
 
 
