@@ -49,9 +49,6 @@ Hi, I’m Mohit Malviya<br>B.Tech student in Artificial Intelligence & Data Scie
   <img src="https://streak-stats.demolab.com?user=mohitmalviya0707&theme=gruvbox&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohitmalviya0707&show_icons=true&theme=gruvbox&hide_border=true" />
-</p>
 
 
 
