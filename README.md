@@ -55,18 +55,20 @@ B.Tech student in **Artificial Intelligence & Data Science**, passionate about b
 **Tools:** ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=flat&logo=jupyter&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat)
 
 ---
-
 ## 📊 GitHub Stats
 
-
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mohitmalviya0707&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitmalviya0707&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mohitmalviya0707&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitmalviya0707&theme=tokyo-night&hide_border=true" />
+</p>
 
 ⭐ **Thanks for visiting — if you like what you see, consider giving a star!**
 
