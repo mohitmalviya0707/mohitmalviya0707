@@ -57,10 +57,7 @@ B.Tech student in **Artificial Intelligence & Data Science**, passionate about b
 ---
 ## 📊 GitHub Stats
 
-<p align="center">
- username=mohitmalviya0707&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" alt="GitHub Stats" />
- username=mohitmalviya0707&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=mohitmalviya0707&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
