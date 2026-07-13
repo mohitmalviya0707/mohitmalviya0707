@@ -66,10 +66,6 @@ B.Tech student in **Artificial Intelligence & Data Science**, passionate about b
   <img src="https://streak-stats.demolab.com/?user=mohitmalviya0707&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohitmalviya0707&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
 
 ⭐ **Thanks for visiting — if you like what you see, consider giving a star!**
 
