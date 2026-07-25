@@ -26,19 +26,6 @@ B.Tech student in **Artificial Intelligence & Data Science**, passionate about b
 - ⚡ Fun fact: I enjoy turning complex concepts into simple explanations and real projects
 
 ---
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [RAG-Project](https://github.com/mohitmalviya0707/RAG-Project) | Retrieval-Augmented Generation system — query your own documents using LLMs | Python · LangChain · RAG |
-| [AI Agent Tour](https://github.com/mohitmalviya0707/Ai-agent-tour) | Autonomous AI agent for travel planning & recommendations | Python · LLM · Agents |
-| [Movies Recommender](https://github.com/mohitmalviya0707/movies-recommender-system) | ML-based movie recommendation with cast, release & details via API | Python · Scikit-learn · API |
-| [Fraud SMS Detector](https://github.com/mohitmalviya0707/Fraud-SMS-detector) | NLP classifier to detect spam & fraud messages | Python · NLP · ML |
-| [Heart Disease Predictor](https://github.com/mohitmalviya0707/Heart_disease_project) | Predicts heart disease risk using clinical data | Python · Scikit-learn |
-| [AISI – UIDAI Hackathon](https://github.com/mohitmalviya0707/AISI-UIDAI-2026) | Aadhaar Inclusion Stress Index — data framework for UIDAI Hackathon 2026 | Python · Data Analysis |
-
----
 ## 🚀 Featured Projects
  
 | Project | Description | Tech |
