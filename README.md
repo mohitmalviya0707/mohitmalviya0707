@@ -30,7 +30,7 @@ B.Tech student in **Artificial Intelligence & Data Science**, passionate about b
  
 | Project | Description | Tech |
 |---|---|---|
-| [🚗 Vehicle Insurance MLOps Pipeline](https://github.com/mohitmalviya0707/MLOps-ML-complete-pipeline-) | End-to-end MLOps system for vehicle insurance interest prediction — MongoDB data ingestion, model training/versioning on AWS S3, Dockerized Flask API, auto-deployed to EC2 via GitHub Actions CI/CD | Python · AWS (S3, EC2, ECR) · Docker · GitHub Actions · MongoDB Atlas · Flask |
+| [ Vehicle Insurance MLOps Pipeline](https://github.com/mohitmalviya0707/MLOps-ML-complete-pipeline-) | End-to-end MLOps system for vehicle insurance interest prediction — MongoDB data ingestion, model training/versioning on AWS S3, Dockerized Flask API, auto-deployed to EC2 via GitHub Actions CI/CD | Python · AWS (S3, EC2, ECR) · Docker · GitHub Actions · MongoDB Atlas · Flask |
 | [RAG-Project](https://github.com/mohitmalviya0707/RAG-Project) | Retrieval-Augmented Generation system — query your own documents using LLMs | Python · LangChain · RAG |
 | [AI Agent Tour](https://github.com/mohitmalviya0707/Ai-agent-tour) | Autonomous AI agent for travel planning & recommendations | Python · LLM · Agents |
 | [Fraud SMS Detector](https://github.com/mohitmalviya0707/Fraud-SMS-detector) | NLP classifier to detect spam & fraud messages | Python · NLP · ML |
