@@ -59,3 +59,169 @@ B.Tech student in **Artificial Intelligence & Data Science**, passionate about b
 
 ⭐ **Thanks for visiting — if you like what you see, consider giving a star!**
 
+
+
+
+<!-- ================= HERO SECTION ================= -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:6366F1&height=220&section=header&text=Mohit%20Malviya&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Building%20Intelligent%20Systems&descSize=16&descAlignY=60&animation=fadeIn" width="100%" />
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=650&lines=Turning+Ideas+Into+Intelligent+Solutions;Machine+Learning+%7C+Generative+AI+%7C+LLMs;Building+Real-World+AI+Applications;Learning%2C+Building%2C+Improving+Every+Day" />
+</a>
+
+<br/>
+
+<a href="https://github.com/mohitmalviya0707">
+<img src="https://komarev.com/ghpvc/?username=mohitmalviya0707&label=PROFILE+VIEWS&color=6366f1&style=for-the-badge" />
+</a>
+
+<a href="https://github.com/mohitmalviya0707?tab=followers">
+<img src="https://img.shields.io/github/followers/mohitmalviya0707?label=FOLLOWERS&style=for-the-badge&color=6366f1" />
+</a>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```python
+class MohitMalviya:
+
+    def __init__(self):
+        self.role = "AI & Data Science Engineer"
+        self.focus = [
+            "Machine Learning",
+            "Generative AI",
+            "LLMs & RAG Systems",
+            "Data Science"
+        ]
+        self.languages = ["Python", "SQL", "C++"]
+        self.currently_building = "Practical AI Applications"
+        self.mindset = "Build. Experiment. Improve."
+
+    def say_hi(self):
+        return "Turning data into intelligence."
+```
+
+- 🎓 B.Tech in Artificial Intelligence & Data Science.
+- 🧠 Interested in building intelligent, data-driven applications.
+- 🔬 Exploring LLMs, RAG, AI Agents and Machine Learning.
+- 🛠️ Building end-to-end AI/ML projects and practical solutions.
+- 🤝 Open to collaboration, internships and interesting AI projects.
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/mohitmalviya0707/MLOps-ML-complete-pipeline-">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mohitmalviya0707&repo=MLOps-ML-complete-pipeline-&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/mohitmalviya0707/RAG-Project">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mohitmalviya0707&repo=RAG-Project&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/mohitmalviya0707/Ai-agent-tour">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mohitmalviya0707&repo=Ai-agent-tour&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/mohitmalviya0707/Fraud-SMS-detector">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mohitmalviya0707&repo=Fraud-SMS-detector&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/mohitmalviya0707/AISI-UIDAI-2026">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mohitmalviya0707&repo=AISI-UIDAI-2026&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/mohitmalviya0707/MLOps-Project-01">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mohitmalviya0707&repo=MLOps-Project-01&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+## ⚙️ Tech Arsenal
+
+### 💻 Programming & Database
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,postgres,mongodb,mysql" />
+</p>
+
+### 🤖 AI / Machine Learning
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-6366F1?style=for-the-badge" />
+</p>
+
+### 📊 Data Science & Analytics
+<p>
+<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+### ☁️ Development & Deployment
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,streamlit,docker,aws,gcp,git,github,linux,vscode" />
+</p>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mohitmalviya0707&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitmalviya0707&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="80%" src="https://streak-stats.demolab.com?user=mohitmalviya0707&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mohitmalviya0707/mohitmalviya0707/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mohit-malviya/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/mohitmalviya0707">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:mohitmalviya0707@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**"Don't just learn technology. Build something meaningful with it."**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:312E81,100:0F172A&height=110&section=footer" width="100%" />
+
+</div>
+
