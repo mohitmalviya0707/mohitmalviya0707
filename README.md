@@ -60,168 +60,284 @@ B.Tech student in **Artificial Intelligence & Data Science**, passionate about b
 ⭐ **Thanks for visiting — if you like what you see, consider giving a star!**
 
 
-
-
-<!-- ================= HERO SECTION ================= -->
+# 🌌 MOHIT MALVIYA | AI ENGINEER
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:6366F1&height=220&section=header&text=Mohit%20Malviya&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Building%20Intelligent%20Systems&descSize=16&descAlignY=60&animation=fadeIn" width="100%" />
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=650&lines=Turning+Ideas+Into+Intelligent+Solutions;Machine+Learning+%7C+Generative+AI+%7C+LLMs;Building+Real-World+AI+Applications;Learning%2C+Building%2C+Improving+Every+Day" />
-</a>
+<!-- Animated Hero -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&text=MOHIT%20MALVIYA&fontSize=65&fontColor=ffffff&stroke=818CF8&strokeWidth=2&animation=twinkling&color=0:020617,40:1E1B4B,100:312E81&desc=ENGINEERING%20INTELLIGENCE%20%7C%20BUILDING%20THE%20FUTURE&descSize=15&descAlignY=70&fontAlignY=42"/>
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Mohit+Malviya+%F0%9F%91%8B;AI+%26+Data+Science+Engineer+%F0%9F%A7%A0;Building+Intelligent+Systems+%F0%9F%A4%96;Exploring+LLMs%2C+RAG+%26+AI+Agents+%F0%9F%9A%80;Turning+Ideas+Into+Real-World+Solutions+%E2%9C%A8" />
+
+<br/><br/>
+
 <a href="https://github.com/mohitmalviya0707">
-<img src="https://komarev.com/ghpvc/?username=mohitmalviya0707&label=PROFILE+VIEWS&color=6366f1&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=mohitmalviya0707&style=for-the-badge&color=7C3AED&label=VISITORS"/>
+</a>
+<a href="https://github.com/mohitmalviya0707?tab=followers">
+<img src="https://img.shields.io/github/followers/mohitmalviya0707?style=for-the-badge&color=2563EB&label=FOLLOWERS"/>
+</a>
+<a href="https://github.com/mohitmalviya0707?tab=repositories">
+<img src="https://img.shields.io/badge/Explore-My_Repositories-8B5CF6?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://github.com/mohitmalviya0707?tab=followers">
-<img src="https://img.shields.io/github/followers/mohitmalviya0707?label=FOLLOWERS&style=for-the-badge&color=6366f1" />
-</a>
+<br/><br/>
+
+**I don't just write code. I build solutions that make technology meaningful.**
+
+<br/>
+
+[ABOUT ME](#-the-person-behind-the-code) • [PROJECTS](#-things-ive-built) • [TECH STACK](#-my-technology-universe) • [GITHUB](#-github-universe) • [CONNECT](#-lets-build-something-together)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧬 THE PERSON BEHIND THE CODE
+
+<img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+Hey! I'm **Mohit Malviya**, an Artificial Intelligence & Data Science engineering student who loves experimenting with technology and building practical solutions.
+
+I enjoy exploring the intersection of data, machine learning and intelligent systems.
+
+- 🎓 B.Tech — Artificial Intelligence & Data Science
+- 🧠 Passionate about Machine Learning and Generative AI
+- 🤖 Exploring LLMs, RAG and Autonomous AI Agents
+- 🔬 Interested in solving real-world problems with data
+- 🚀 Building projects that combine AI with practical applications
+- 🤝 Open to collaboration, internships and open-source opportunities
+
+<br clear="right"/>
+
+### 💭 My Developer Philosophy
+
+> Learn continuously. Build fearlessly. Experiment relentlessly. Create something that matters.
+
+---
+
+## 🖥️ A LITTLE ABOUT MY MIND
 
 ```python
 class MohitMalviya:
 
     def __init__(self):
+        self.name = "Mohit Malviya"
         self.role = "AI & Data Science Engineer"
-        self.focus = [
+        self.languages = ["Python", "C++", "SQL"]
+
+        self.expertise = [
             "Machine Learning",
+            "Deep Learning",
             "Generative AI",
-            "LLMs & RAG Systems",
+            "LLMs & RAG",
             "Data Science"
         ]
-        self.languages = ["Python", "SQL", "C++"]
-        self.currently_building = "Practical AI Applications"
-        self.mindset = "Build. Experiment. Improve."
 
-    def say_hi(self):
-        return "Turning data into intelligence."
+        self.current_mission = "Building Intelligent Systems"
+        self.mindset = "Never Stop Learning"
+
+    def create(self, idea):
+        return f"Transforming {idea} into reality!"
+
+    def future(self):
+        return "Innovation through Intelligence 🚀"
+
+
+me = MohitMalviya()
+print(me.future())
 ```
-
-- 🎓 B.Tech in Artificial Intelligence & Data Science.
-- 🧠 Interested in building intelligent, data-driven applications.
-- 🔬 Exploring LLMs, RAG, AI Agents and Machine Learning.
-- 🛠️ Building end-to-end AI/ML projects and practical solutions.
-- 🤝 Open to collaboration, internships and interesting AI projects.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 THINGS I'VE BUILT
 
 <div align="center">
 
-<a href="https://github.com/mohitmalviya0707/MLOps-ML-complete-pipeline-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mohitmalviya0707&repo=MLOps-ML-complete-pipeline-&theme=tokyonight&hide_border=true" />
-</a>
+### ✨ Selected Projects
 
+<table>
+<tr>
+<td width="50%">
+
+<h3 align="center">🧠 RAG Project</h3>
+<p align="center">
 <a href="https://github.com/mohitmalviya0707/RAG-Project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mohitmalviya0707&repo=RAG-Project&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mohitmalviya0707&repo=RAG-Project&theme=tokyonight&hide_border=true" width="100%"/>
 </a>
+</p>
+<p align="center">Retrieval-Augmented Generation system for intelligent information retrieval.</p>
+<p align="center"><code>Python</code> <code>LangChain</code> <code>RAG</code></p>
 
+</td>
+<td width="50%">
+
+<h3 align="center">⚙️ Vehicle Insurance MLOps</h3>
+<p align="center">
+<a href="https://github.com/mohitmalviya0707/MLOps-ML-complete-pipeline-">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mohitmalviya0707&repo=MLOps-ML-complete-pipeline-&theme=tokyonight&hide_border=true" width="100%"/>
+</a>
+</p>
+<p align="center">End-to-end ML pipeline with deployment and MLOps workflow.</p>
+<p align="center"><code>Python</code> <code>AWS</code> <code>Docker</code></p>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<h3 align="center">🤖 AI Agent Tour</h3>
+<p align="center">
 <a href="https://github.com/mohitmalviya0707/Ai-agent-tour">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mohitmalviya0707&repo=Ai-agent-tour&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mohitmalviya0707&repo=Ai-agent-tour&theme=tokyonight&hide_border=true" width="100%"/>
 </a>
+</p>
+<p align="center">An intelligent AI-powered travel planning assistant.</p>
+<p align="center"><code>Python</code> <code>LLMs</code> <code>AI Agents</code></p>
 
+</td>
+<td width="50%">
+
+<h3 align="center">📩 Fraud SMS Detector</h3>
+<p align="center">
 <a href="https://github.com/mohitmalviya0707/Fraud-SMS-detector">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mohitmalviya0707&repo=Fraud-SMS-detector&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mohitmalviya0707&repo=Fraud-SMS-detector&theme=tokyonight&hide_border=true" width="100%"/>
 </a>
+</p>
+<p align="center">NLP-based SMS spam and fraud message classification.</p>
+<p align="center"><code>Python</code> <code>NLP</code> <code>Scikit-learn</code></p>
 
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<h3 align="center">🪪 AISI – UIDAI Hackathon</h3>
+<p align="center">
 <a href="https://github.com/mohitmalviya0707/AISI-UIDAI-2026">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mohitmalviya0707&repo=AISI-UIDAI-2026&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mohitmalviya0707&repo=AISI-UIDAI-2026&theme=tokyonight&hide_border=true" width="100%"/>
 </a>
+</p>
+<p align="center">Aadhaar Inclusion Stress Index using data-driven analysis.</p>
+<p align="center"><code>Python</code> <code>Data Science</code></p>
 
+</td>
+<td width="50%">
+
+<h3 align="center">🔬 MLOps Project 01</h3>
+<p align="center">
 <a href="https://github.com/mohitmalviya0707/MLOps-Project-01">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mohitmalviya0707&repo=MLOps-Project-01&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mohitmalviya0707&repo=MLOps-Project-01&theme=tokyonight&hide_border=true" width="100%"/>
 </a>
+</p>
+<p align="center">Machine learning pipeline and workflow automation.</p>
+<p align="center"><code>Python</code> <code>MLOps</code></p>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## ⚙️ Tech Arsenal
-
-### 💻 Programming & Database
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,postgres,mongodb,mysql" />
-</p>
-
-### 🤖 AI / Machine Learning
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-6366F1?style=for-the-badge" />
-</p>
-
-### 📊 Data Science & Analytics
-<p>
-<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib" />
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</p>
-
-### ☁️ Development & Deployment
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,streamlit,docker,aws,gcp,git,github,linux,vscode" />
-</p>
-
----
-
-## 📈 GitHub Analytics
+## ⚡ MY TECHNOLOGY UNIVERSE
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mohitmalviya0707&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+### 💻 Programming Languages
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitmalviya0707&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=python,cpp,sql&theme=dark" />
+
+### 🧠 AI / ML / Deep Learning
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Generative_AI-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-2563EB?style=for-the-badge"/>
+
+### 📊 Data Science & Analytics
+
+<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib&theme=dark"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+### 🌐 Backend & Deployment
+
+<img src="https://skillicons.dev/icons?i=fastapi,streamlit,docker,aws,gcp&theme=dark"/>
+
+### 🗄️ Database & Developer Tools
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,git,github,vscode,jupyter,linux&theme=dark"/>
+
+</div>
+
+---
+
+## 📊 GITHUB UNIVERSE
+
+<div align="center">
+
+### 📈 My Development Journey
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohitmalviya0707&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitmalviya0707&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=mohitmalviya0707&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</div>
+
+---
+
+## 🐍 WATCH MY CONTRIBUTIONS COME ALIVE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mohitmalviya0707/mohitmalviya0707/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation"/>
+
+</div>
+
+---
+
+## 🌍 LET'S BUILD SOMETHING TOGETHER
+
+<div align="center">
+
+**Have an interesting idea, AI project or collaboration opportunity?**
+
+Let's connect and turn ideas into reality.
 
 <br/>
 
-<img width="80%" src="https://streak-stats.demolab.com?user=mohitmalviya0707&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/mohitmalviya0707/mohitmalviya0707/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
----
-
-## 🌐 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/mohit-malviya/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
 <a href="https://github.com/mohitmalviya0707">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:mohitmalviya0707@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-**"Don't just learn technology. Build something meaningful with it."**
+### 💜 BUILDING TODAY. INNOVATING TOMORROW.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:312E81,100:0F172A&height=110&section=footer" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Stay+Curious.;Keep+Building.;Make+An+Impact." />
+
+<br/>
+
+⭐ If you find something interesting here, consider starring a repository!
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:1E1B4B,100:020617&height=130&section=footer"/>
 
 </div>
-
