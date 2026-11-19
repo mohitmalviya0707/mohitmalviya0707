@@ -106,7 +106,6 @@ print(me.build("new ideas"))
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=mohitmalviya0707&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitmalviya0707&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
