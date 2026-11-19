@@ -1,8 +1,10 @@
+
 # 🌌 MOHIT MALVIYA | AI ENGINEER
 
 <div align="center">
 
 <!-- Animated Hero -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&text=MOHIT%20MALVIYA&fontSize=65&fontColor=ffffff&stroke=818CF8&strokeWidth=2&animation=twinkling&color=0:020617,40:1E1B4B,100:312E81&desc=ENGINEERING%20INTELLIGENCE%20%7C%20BUILDING%20THE%20FUTURE&descSize=15&descAlignY=70&fontAlignY=42"/>
 
 <br/>
 
@@ -82,7 +84,6 @@ print(me.build("new ideas"))
 </p>
 
 ---
-
 ## 🛠️ Tech Stack
 
 **Core:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
@@ -97,16 +98,16 @@ print(me.build("new ideas"))
 
 **Tools:** ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=flat&logo=jupyter&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat)
 
----
 
 
+
+
+__
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mohitmalviya0707&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
 
-<br/><br/>
 
 <img width="75%" src="https://streak-stats.demolab.com?user=mohitmalviya0707&theme=tokyonight&hide_border=true&background=0D1117" />
 
@@ -139,4 +140,6 @@ print(me.build("new ideas"))
 ⭐ If you find something interesting, consider giving a repository a star!
 
 </div>
+
+---
 
