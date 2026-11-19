@@ -1,4 +1,4 @@
-<!-- Typing animation -->
+<!-- Typing animation --
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohit+Malviya;AI+%26+Data+Science+Engineer;Building+Practical+AI+Solutions;LLMs+%7C+ML+%7C+Data+Science)](https://git.io/typing-svg)
@@ -57,7 +57,7 @@ B.Tech student in **Artificial Intelligence & Data Science**, passionate about b
 </div>
 ---
 
-⭐ **Thanks for visiting — if you like what you see, consider giving a star!**
+⭐ **Thanks for visiting — if you like what you see, consider giving a star!**  <vvvvvvvv-->
 
 
 # 🌌 MOHIT MALVIYA | AI ENGINEER
@@ -443,45 +443,6 @@ print(me.build("new ideas"))
 </p>
 
 ---
-
-## ⚡ My Technology Universe
-
-<div align="center">
-
-### 💻 Programming
-<img src="https://skillicons.dev/icons?i=python,cpp&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-
-### 🧠 AI, ML & Deep Learning
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Generative%20AI-8B5CF6?style=for-the-badge" />
-
-### 🤖 GenAI & LLM Applications
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG-6366F1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LLMs-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Prompt%20Engineering-EC4899?style=for-the-badge" />
-
-### 📊 Data Science & Analytics
-<img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-
-### 🌐 Backend, Cloud & Deployment
-<img src="https://skillicons.dev/icons?i=fastapi,streamlit,docker,aws,gcp&theme=dark" />
-
-### 🗄️ Databases & Developer Tools
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,git,github,vscode,jupyter,linux&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge" />
-
-</div>
 
 ---
 
