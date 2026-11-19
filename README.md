@@ -152,20 +152,6 @@ print(me.future())
 
 --
 
-## 📊 GITHUB UNIVERSE
-
-<div align="center">
-
-### 📈 My Development Journey
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohitmalviya0707&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitmalviya0707&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=mohitmalviya0707&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</div>
 
 ---
 
