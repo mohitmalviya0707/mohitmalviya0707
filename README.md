@@ -3,7 +3,6 @@
 <div align="center">
 
 <!-- Animated Hero -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&text=MOHIT%20MALVIYA&fontSize=65&fontColor=ffffff&stroke=818CF8&strokeWidth=2&animation=twinkling&color=0:020617,40:1E1B4B,100:312E81&desc=ENGINEERING%20INTELLIGENCE%20%7C%20BUILDING%20THE%20FUTURE&descSize=15&descAlignY=70&fontAlignY=42"/>
 
 <br/>
 
