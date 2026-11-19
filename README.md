@@ -109,7 +109,6 @@ print(me.build("new ideas"))
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=mohitmalviya0707&theme=tokyonight&hide_border=true&background=0D1117" />
 
 </div>
 
