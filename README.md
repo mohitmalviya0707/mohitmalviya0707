@@ -341,3 +341,198 @@ Let's connect and turn ideas into reality.
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:1E1B4B,100:020617&height=130&section=footer"/>
 
 </div>
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&text=MOHIT%20MALVIYA&fontSize=62&fontColor=ffffff&stroke=818CF8&strokeWidth=2&animation=twinkling&color=0:020617,45:1E1B4B,100:312E81&desc=AI%20%26%20DATA%20SCIENCE%20%7C%20BUILDING%20INTELLIGENT%20SYSTEMS&descSize=14&descAlignY=70&fontAlignY=42" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&width=760&lines=Hey%2C+I%27m+Mohit+Malviya+%F0%9F%91%8B;AI+%26+Data+Science+Engineering+Student;Exploring+Machine+Learning+%26+Generative+AI;Building+LLM%2C+RAG+%26+AI+Agent+Projects;Turning+Ideas+Into+Practical+Solutions" />
+
+<br/>
+
+<a href="https://github.com/mohitmalviya0707">
+  <img src="https://komarev.com/ghpvc/?username=mohitmalviya0707&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" />
+</a>
+<a href="https://github.com/mohitmalviya0707?tab=followers">
+  <img src="https://img.shields.io/github/followers/mohitmalviya0707?style=for-the-badge&color=2563EB&label=FOLLOWERS" />
+</a>
+<a href="https://github.com/mohitmalviya0707?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-Repositories-8B5CF6?style=for-the-badge&logo=github" />
+</a>
+
+<br/><br/>
+
+**I enjoy turning data, experiments and ideas into useful AI-powered solutions.**
+
+</div>
+
+---
+
+## 🧬 About Me
+
+Hey! I am **Mohit Malviya**, a B.Tech student in **Artificial Intelligence & Data Science**, graduating in 2027.
+
+I enjoy working at the intersection of data science, machine learning and intelligent applications. I like learning by building projects, experimenting with new tools and understanding how AI systems work in real-world scenarios.
+
+- 🎓 B.Tech — Artificial Intelligence & Data Science
+- 🧠 Interested in Machine Learning, Deep Learning and Data Science
+- 🤖 Exploring Generative AI, LLMs, RAG and AI Agents
+- 🛠️ Building practical projects with Python and modern AI tools
+- 🤝 Open to internships, research and open-source collaboration
+
+### 💭 My Developer Philosophy
+
+> Learn continuously. Build fearlessly. Experiment relentlessly. Create something that matters.
+
+---
+
+## 🖥️ A Little About My Mind
+
+```python
+class MohitMalviya:
+    def __init__(self):
+        self.name = "Mohit Malviya"
+        self.role = "AI & Data Science Student"
+        self.languages = ["Python", "C++", "SQL"]
+        self.interests = [
+            "Machine Learning",
+            "Deep Learning",
+            "Generative AI",
+            "LLMs and RAG",
+            "Data Science",
+        ]
+        self.current_focus = "Building intelligent systems"
+        self.mindset = "Never stop learning"
+
+    def build(self, idea):
+        return f"Turning {idea} into a practical solution."
+
+
+me = MohitMalviya()
+print(me.build("new ideas"))
+```
+
+---
+
+## 🚀 Things I Have Built
+
+<div align="center">
+
+| Project | What it does | Tech |
+|:--|:--|:--|
+| [🧠 RAG Project](https://github.com/mohitmalviya0707/RAG-Project) | Retrieval-Augmented Generation for knowledge-based question answering | Python · LangChain · RAG |
+| [⚙️ Vehicle Insurance MLOps](https://github.com/mohitmalviya0707/MLOps-ML-complete-pipeline-) | End-to-end ML pipeline for vehicle insurance interest prediction | Python · AWS · Docker |
+| [🤖 AI Agent Tour](https://github.com/mohitmalviya0707/Ai-agent-tour) | AI-powered travel planning assistant | Python · LLMs · Agents |
+| [📩 Fraud SMS Detector](https://github.com/mohitmalviya0707/Fraud-SMS-detector) | NLP-based SMS spam and fraud message classification | Python · NLP · Scikit-learn |
+| [🪪 AISI – UIDAI Hackathon](https://github.com/mohitmalviya0707/AISI-UIDAI-2026) | Aadhaar Inclusion Stress Index using data-driven analysis | Python · Data Science |
+| [🔬 MLOps Project 01](https://github.com/mohitmalviya0707/MLOps-Project-01) | Machine learning pipeline and workflow automation | Python · MLOps |
+
+</div>
+
+<p align="center">
+  <i>Explore my GitHub repositories for source code and project updates.</i>
+</p>
+
+---
+
+## ⚡ My Technology Universe
+
+<div align="center">
+
+### 💻 Programming
+<img src="https://skillicons.dev/icons?i=python,cpp&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+### 🧠 AI, ML & Deep Learning
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Generative%20AI-8B5CF6?style=for-the-badge" />
+
+### 🤖 GenAI & LLM Applications
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-6366F1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLMs-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-EC4899?style=for-the-badge" />
+
+### 📊 Data Science & Analytics
+<img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
+### 🌐 Backend, Cloud & Deployment
+<img src="https://skillicons.dev/icons?i=fastapi,streamlit,docker,aws,gcp&theme=dark" />
+
+### 🗄️ Databases & Developer Tools
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,git,github,vscode,jupyter,linux&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge" />
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mohitmalviya0707&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitmalviya0707&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=mohitmalviya0707&theme=tokyonight&hide_border=true&background=0D1117" />
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mohitmalviya0707/mohitmalviya0707/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation" />
+
+</div>
+
+---
+
+## 🌐 Let Us Connect
+
+<div align="center">
+
+<a href="https://github.com/mohitmalviya0707">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/mohitmalviya-ds/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://mohit-malviya.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-6C4CF1?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<br/><br/>
+
+### 💜 BUILDING TODAY. INNOVATING TOMORROW.
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Stay+Curious.;Keep+Building.;Make+An+Impact." />
+
+<br/>
+
+⭐ If you find something interesting, consider giving a repository a star!
+
+</div>
+
