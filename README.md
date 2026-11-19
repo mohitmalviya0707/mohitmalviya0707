@@ -73,41 +73,6 @@ B.Tech student in **Artificial Intelligence & Data Science**, passionate about b
 
 <br/><br/>
 
-<a href="https://github.com/mohitmalviya0707">
-<img src="https://komarev.com/ghpvc/?username=mohitmalviya0707&style=for-the-badge&color=7C3AED&label=VISITORS"/>
-</a>
-<a href="https://github.com/mohitmalviya0707?tab=followers">
-<img src="https://img.shields.io/github/followers/mohitmalviya0707?style=for-the-badge&color=2563EB&label=FOLLOWERS"/>
-</a>
-<a href="https://github.com/mohitmalviya0707?tab=repositories">
-<img src="https://img.shields.io/badge/Explore-My_Repositories-8B5CF6?style=for-the-badge&logo=github"/>
-</a>
-
-<br/><br/>
-
-**I don't just write code. I build solutions that make technology meaningful.**
-
-<br/>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&text=MOHIT%20MALVIYA&fontSize=62&fontColor=ffffff&stroke=818CF8&strokeWidth=2&animation=twinkling&color=0:020617,45:1E1B4B,100:312E81&desc=AI%20%26%20DATA%20SCIENCE%20%7C%20BUILDING%20INTELLIGENT%20SYSTEMS&descSize=14&descAlignY=70&fontAlignY=42" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&width=760&lines=Hey%2C+I%27m+Mohit+Malviya+%F0%9F%91%8B;AI+%26+Data+Science+Engineering+Student;Exploring+Machine+Learning+%26+Generative+AI;Building+LLM%2C+RAG+%26+AI+Agent+Projects;Turning+Ideas+Into+Practical+Solutions" />
-
-<br/>
-
-<a href="https://github.com/mohitmalviya0707">
-  <img src="https://komarev.com/ghpvc/?username=mohitmalviya0707&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" />
-</a>
-<a href="https://github.com/mohitmalviya0707?tab=followers">
-  <img src="https://img.shields.io/github/followers/mohitmalviya0707?style=for-the-badge&color=2563EB&label=FOLLOWERS" />
-</a>
-<a href="https://github.com/mohitmalviya0707?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-Repositories-8B5CF6?style=for-the-badge&logo=github" />
-</a>
-
-<br/><br/>
 
 **I enjoy turning data, experiments and ideas into useful AI-powered solutions.**
 
